@@ -136,6 +136,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 For questions or feedback, reach out to:
 - **Mohd Shabihul Hasan Khan**  
 - **Email**: mohdshabihul@gmail.com  
-- **GitHub**: [your-username](https://github.com/your-username)  
+- **GitHub**: [ShabihEthSec](https://github.com/ShabihEthSec)  
 
 ---
